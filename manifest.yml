@@ -1,0 +1,8 @@
+---
+applications:
+- name: neelames-simplest-deployment
+  description: CAP Developer challenge on reverse api jul 2024
+  version: 1.0.0
+  memory: 512MB
+  disk_quota: 512MB
+  buildpack: nodejs_buildpack
